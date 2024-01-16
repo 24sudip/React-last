@@ -1,0 +1,31 @@
+
+nav {
+    background-color: #0C0B08;
+}
+
+.navMain {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logo a {
+    font-family: 'Cormorant Upright', serif;
+    font-size: 44px;
+    font-weight: 700;
+    line-height: 57px;
+    color: #fff;
+}
+
+.navMenu ul {
+    display: flex;
+}
+
+.navMenu ul li a {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 28px;
+    color: #fff;
+    padding: 0 16px;
+}

@@ -1,0 +1,20 @@
+
+.next {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    background-color: red;
+    border-radius: 50%;
+}
+
+.prev {
+    height: 40px;
+    width: 40px;
+    line-height: 40px;
+    text-align: center;
+    color: #fff;
+    background-color: red;
+    border-radius: 50%;
+}
